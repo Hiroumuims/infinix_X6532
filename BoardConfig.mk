@@ -180,7 +180,7 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TARGET_USES_MKE2FS := true
 TW_NO_FLASH_CURRENT_TWRP := true
-TW_DEVICE_VERSION := nazephyrus | X6532
+TW_DEVICE_VERSION := Hiroumuims | X6532
 
 # no recovery partition
 TW_HAS_NO_RECOVERY_PARTITION := true
@@ -196,4 +196,3 @@ TW_CUSTOM_BATTERY_POS := "790"
 
 # vibration patch
 TW_USE_SAMSUNG_JDM_HAPTICS := true
-TW_USE_SAMSUNG_USB_STORAGE := true
